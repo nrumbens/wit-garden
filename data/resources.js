@@ -56,4 +56,13 @@ const RESOURCES = [
   // --- copy a block above, fill in your rec, and add it here! ---
   // to add a cover: save the image to assets/covers/ and put the filename in the cover field
   // available tags: song, album, movie, show, book, podcast, recipe, other
+  {
+    title: "Book",
+    author: "Author",
+    cover: "", // if u upload an image
+    url: "https://music.apple.com/us/album/dirty-computer/1358097901",
+    tag: "album",
+    description: "A sci-fi concept album about identity, freedom, and being a glorious dirty computer.",
+    added_by: "meee"
+  },
 ];
