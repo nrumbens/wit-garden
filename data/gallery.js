@@ -30,4 +30,14 @@ const GALLERY = [
     medium: "digital",
     github: "aloonsballoons"
   },
+  
+{
+    title: "doggy",
+    artist: "Tash",
+    file: "doggy.png",      
+    medium: "photo",
+    github: ""
+  },
+  
+
 ];
